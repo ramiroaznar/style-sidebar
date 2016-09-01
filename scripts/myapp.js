@@ -26,7 +26,7 @@
           });
 
           cdb.$('#default').click(function() {
-            cdb.$('.CDB-Dashboard-menuInner').css({'background': '#3AA9E3'})
+            cdb.$('.CDB-Dashboard-menuInner').css({'background': '#1181FB'})
           });
 
         });
